@@ -13,7 +13,7 @@
 <body>
   <h1>Continuous Integration demo</h1>
   <p>
-   This is how automated deployments happen demo by dinesh
+   This is how automated deployments happen demo by Thillai
   </p>
 </body>
 </html>
